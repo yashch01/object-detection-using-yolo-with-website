@@ -6,6 +6,8 @@
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=PIL&logoColor=white)](https://pillow.readthedocs.io/en/stable/)
 
+**Click on below image to view the website and project demo**
+
 [![Website Demo](https://github.com/yashch01/object-detection-using-yolo-with-website/blob/main/yolo_yt2.png
 )](https://youtu.be/tz8J4TaF-g0)
 
