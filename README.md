@@ -6,6 +6,8 @@
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=PIL&logoColor=white)](https://pillow.readthedocs.io/en/stable/)
 
+[![Website Demo](https://github.com/yashch01/object-detection-using-yolo-with-website/blob/main/yolo_yt2.png
+)](https://youtu.be/tz8J4TaF-g0)
 
 This web application leverages the YOLOv3 object detection model to identify objects in real-time from a webcam feed, as well as in uploaded images and videos. Built with Flask, it provides an intuitive interface for users to interact with the object detection capabilities. This project is designed for deployment on platforms like Vercel, making it easily accessible online.
 
